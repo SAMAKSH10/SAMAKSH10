@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm actively expanding my skills, especially in the field of web development.<br>👯 I’m looking to collaborate on various backend projects<br>🌱 I’m currently learning various Microservice Architecture<br>
+🔭 I'm actively expanding my skills, especially in the field of web development.<br>👯 I’m looking to collaborate on various backend projects<br>🌱 I’m currently learning about Microservice Architecture<br>
 
 
 ## 🌐 Socials:
